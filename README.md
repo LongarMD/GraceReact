@@ -1,6 +1,7 @@
 # Grace React Template
 
-Vsebuje: 
+Vsebuje:
+
 - React + Vite
 - Tailwind css
 - Shadcn komponente
