@@ -1,3 +1,8 @@
+/*
+  Some default styles for tailwindCSS and shadcn.
+  You don't need to edit this file.
+*/
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

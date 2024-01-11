@@ -1,5 +1,6 @@
 /**
  * Some utility functions used for shadcn components.
+ * You can ignore this file.
  */
 
 import { clsx } from "clsx";
