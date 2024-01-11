@@ -1,3 +1,9 @@
+/*
+  The apps main styles. It includes:
+  - TailwindCSS base styles
+  - Shadcn base styles
+*/
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

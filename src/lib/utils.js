@@ -1,3 +1,7 @@
+/**
+ * Some utility functions used for shadcn components.
+ */
+
 import { clsx } from "clsx";
 import { twMerge } from "tailwind-merge";
 
