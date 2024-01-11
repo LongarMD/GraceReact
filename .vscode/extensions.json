@@ -8,6 +8,7 @@
     "yzhang.markdown-all-in-one",
     "bradlc.vscode-tailwindcss",
     "pmneo.tsimporter",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "yoavbls.pretty-ts-errors"
   ]
 }
