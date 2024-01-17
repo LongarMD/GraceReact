@@ -11,5 +11,6 @@
     "**/.vscode": true,
   },
   "explorer.excludeGitIgnore": true,
-  "css.lint.unknownAtRules": "ignore"
+  "css.lint.unknownAtRules": "ignore",
+  "explorer.sortOrder": "filesFirst"
 }
